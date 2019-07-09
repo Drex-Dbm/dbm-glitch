@@ -3,6 +3,14 @@
 
 the only things needed are for you to do this
 
+Know how to add your own commands/events
+if you dont know 
+make sure you have a text editor 
+go to your bots folder hit data and then right click on commands.json/events.json
+copy its insides and go to glitch scroll to the bottom until you see the commands.json or events.json file and paste them there 
+
+then
+
 Then on uptimerobot
 Create an account with them (very fast signup)
 and then login if it doesn't already.
