@@ -28,6 +28,6 @@ Please be sure to remix it and then make it private
 to keep everything safe
 
 here is the link
-https://glitch.com/~booming-flock 
+glitch.com/edit/#!/join/44829e95-7ab1-4ea2-b4e4-d1c90946bdd5
 
 (thank for this post https://dbotmaker.io/forums/threads/glitch-hosting-free-compatible-with-beta-saves-data.305/)
